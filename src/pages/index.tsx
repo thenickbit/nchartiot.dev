@@ -9,7 +9,7 @@ const Home = () => {
       style={{
         width: '100vw',
         height: '100vh',
-        backgroundColor: 'red',
+        backgroundColor: 'pink',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
