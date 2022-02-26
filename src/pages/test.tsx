@@ -7,7 +7,7 @@ const Test = () => {
       style={{
         width: '100vw',
         height: '100vh',
-        backgroundColor: 'purple',
+        backgroundColor: 'green',
         display: 'flex',
         alignItems: 'center',
         justifyContent: 'center',
